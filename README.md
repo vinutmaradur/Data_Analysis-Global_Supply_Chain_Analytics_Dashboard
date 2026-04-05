@@ -106,4 +106,4 @@ Let me know if you’d like to customize any sections further!
 
 **👨‍💻 Author** </br>
 Vinut Maradur </br>
-MCA (Data Science) Graduate | Data Analyst | Data Science Enthusiast
+Global Supply Chain Dashboard Using Power BI
